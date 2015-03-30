@@ -79,4 +79,3 @@ GPS 1.1 Repository
   74 git push origin master
   75 git checkout -b add-command-log
   76 git checkout --help
-  77 ls
